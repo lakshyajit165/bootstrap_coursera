@@ -30,7 +30,13 @@ body{
     background: #9575CD ;
     color:floralwhite;
 }
-
+.badge{
+    margin-left:8px;
+}
+#table_link{
+    text-decoration:none;
+    color:black;
+}
 address{
     font-size:80%;
     margin:0px;
